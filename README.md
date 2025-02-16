@@ -18,4 +18,5 @@ Jarvis is a simple yet extensible personal assistant written in Python. It's des
 * Required Libraries:  Install the necessary libraries using pip:
 
 ```bash
-pip install -r requirements.txt  # This assumes you have a requirements.txt file
+pip install pyttsx3
+pip install speech-recognisation
